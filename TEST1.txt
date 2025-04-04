@@ -1,0 +1,14 @@
+let FirstGrade = prompt("Qual a 1° nota?")
+let SecondGrade = prompt("Qual a 2° nota?")
+let ThirdGrade = prompt("Qual a 3° nota?")
+let FourthGrade = prompt("Qual a 4° nota?")
+let FifthGrade = prompt("Qual a 5° nota?")
+let Addition = Number(FirstGrade)+Number(SecondGrade)+Number(ThirdGrade)+Number(FourthGrade)+Number(FifthGrade)fdesdfsdfsdfsdfsdfsfsd
+let mean = Addition / 5
+alert(mean.toFixed(2))
+if (mean >= 7) {
+    alert('Bom trabalho')
+}else{
+    alert('prescisa estudar mais')
+}
+asdsadasdasdasdasasd
